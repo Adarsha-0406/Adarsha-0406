@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Adarsha-0406
+- 👋 Hi, I’m @Aadarsh46
 - 👀 I’m interested in code learning
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning python,html,css....
 - 💞️ I’m looking to collaborate on you guys
 - 📫 How to reach me your9498@gmail.com
 
